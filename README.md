@@ -1,0 +1,2 @@
+# AwareInterface
+PHP Aware Interface
