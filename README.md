@@ -1,6 +1,8 @@
 # AwareInterface
 PHP Aware Interface
 
+`composer require potter/aware-interface`
+
 Provides:
 
  * Potter\Aware\AwareInterface
